@@ -1,2 +1,2 @@
 essai fichier pour différents commit/push
-ajout pour nouvelle version
+suppression maj
